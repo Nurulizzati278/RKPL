@@ -1,0 +1,14 @@
+.main-container {
+  padding-top: 80px; 
+  margin-right: 150px;
+  margin-left: 300px;
+}
+
+.card-body {
+  background-color: #c0c0c0;
+  margin-bottom: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 50px;
+  padding-right: 100px;
+}

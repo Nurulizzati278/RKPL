@@ -1,0 +1,28 @@
+.data-form {
+  padding: 180px 0;
+}
+
+.data-form form {
+  background-color: rgba(182, 185, 185, 0.767);
+  max-width: 639px;
+  height: 270px;
+  margin: auto;
+  padding: 30px 70px;
+  font-size: 35px;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.link {
+    text-decoration: none;
+    color: rgb(131, 124, 124);
+    background-color: rgba(182, 185, 185, 0.767);
+    line-height: 50px;
+    margin-left: 190px;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 25px;
+  }
